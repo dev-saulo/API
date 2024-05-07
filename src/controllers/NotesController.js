@@ -1,3 +1,4 @@
+
 const knex = require("../database/knex");
 
 class NotesController {
